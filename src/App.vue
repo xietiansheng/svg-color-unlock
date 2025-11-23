@@ -2,7 +2,7 @@
   <div class="page">
     <header class="hero">
       <div>
-        <p class="eyebrow">SVG ColorUnlock</p>
+        <p class="eyebrow">SVG Color Unlock</p>
         <h1>让设计稿快速继承 currentColor</h1>
         <p class="lede">
           粘贴或上传 SVG，一键清理 fill / stroke / opacity 与内联
