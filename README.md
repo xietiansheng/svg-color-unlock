@@ -4,6 +4,11 @@
 
 一个纯前端的 SVG 清理与预览工具，移除设计稿里的 `fill` / `stroke` 等属性，统一改为 `currentColor`，让图标可以继承文字颜色。基于 Vite + Vue 3 + TypeScript，可直接部署到 GitHub Pages。
 
+## 在线体验
+- 访问地址：https://xietiansheng.github.io/svg-color-unlock/
+- 效果预览：  
+  ![效果预览](public/img/example.png)
+
 ## 功能
 - 粘贴或上传 SVG 源码，自动解析
 - 递归移除 `fill` / `stroke` / `style` / `fill-opacity` / `stroke-opacity`
