@@ -1,6 +1,6 @@
 # SVG ColorUnlock
 
-> English version: [README.md](README.md)
+> English version: [README.en.md](README.en.md)
 
 一个纯前端的 SVG 清理与预览工具，移除设计稿里的 `fill` / `stroke` 等属性，统一改为 `currentColor`，让图标可以继承文字颜色。基于 Vite + Vue 3 + TypeScript，可直接部署到 GitHub Pages。
 
